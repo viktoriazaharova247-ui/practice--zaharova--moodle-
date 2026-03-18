@@ -1,0 +1,42 @@
+Дата и время запуска: 2026-03-18 
+Способ запуска: ручной 
+
+Использованная команда:
+docker exec -it 3be47c041cbc /opt/bitnami/php/bin/php /opt/bitnami/moodle/admin/cli/cron.php 
+Результат выполнения:
+
+
+
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:26 +0000
+Cron run completed correctly
+Cron completed at 10:11:26 in 0.035309 seconds. Memory used: 18.9 MB. Continuing to check for tasks for 180 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:27 +0000
+Cron run completed correctly
+Cron completed at 10:11:27 in 0.010037 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 179 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:28 +0000
+Cron run completed correctly
+Cron completed at 10:11:28 in 0.009368 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 178 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:29 +0000
+Cron run completed correctly
+Cron completed at 10:11:29 in 0.009981 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 177 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:30 +0000
+Cron run completed correctly
+Cron completed at 10:11:30 in 0.009908 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 176 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:31 +0000
+Cron run completed correctly
+Cron completed at 10:11:31 in 0.010014 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 175 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:32 +0000
+Cron run completed correctly
+Cron completed at 10:11:32 in 0.0095160000000001 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 174 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:33 +0000
+Cron run completed correctly
+Cron completed at 10:11:33 in 0.009944 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 173 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:34 +0000
+Cron run completed correctly
+Cron completed at 10:11:34 in 0.0095080000000001 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 172 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:35 +0000
+Cron run completed correctly
+Cron completed at 10:11:35 in 0.009893 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 171 more seconds.
+Ran 0 adhoc tasks found at Wed, 18 Mar 2026 10:11:36 +0000
+
+
